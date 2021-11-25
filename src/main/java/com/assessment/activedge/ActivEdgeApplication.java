@@ -10,4 +10,5 @@ public class ActivEdgeApplication {
 		SpringApplication.run(ActivEdgeApplication.class, args);
 	}
 
+
 }
