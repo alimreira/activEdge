@@ -7,5 +7,13 @@ This will enable users perform CRUD
 required endpoints.
 
 
+
+To start the application, clone the repository and cd into the containing folder
+
+run ./mvnw clean verify to build the application
+
+run java -jar target/*.jar to start the jar file
+
 The server listens for requests on localhost:8080/api
+
 
